@@ -1,10 +1,12 @@
 ## Hellooo ✨
 
-I'm Liz, a mexican artist illustrator who want to change her carreer to join to the IT World. Currently I have the fundaments of UX/UI and some basic knowledge about Javascript, HTML.
+I'm Liz, a Mexican artist and illustrator who wants to change her career to join the IT world. I currently have the fundamentals of UX/UI and some basic knowledge of Javascript and HTML.
 - 🌱 I’m currently learning QA testing.
-- 🌱 I want to learn languages like Python, Javascript, JAVA, HTML, C#.
+- 🌱 I want to learn (and improve) languages like Python, Javascript, JAVA, HTML, and C#.
 - 😄 Pronouns: she/her
-- 🎮 Hobbies: I love videogames, illustration, make clay figures, books.
+- 🎮 Hobbies: I love videogames, illustration, making cute clay figures, and reading books.
+
+
 [![roadmap.sh](https://roadmap.sh/card/tall/6849f6fde00cd4945b730228?variant=dark&roadmaps=qa)](https://roadmap.sh)
 
 <!--
