@@ -6,8 +6,6 @@ I'm Liz, a Mexican artist and illustrator who wants to change her career to join
 - 😄 Pronouns: she/her
 - 🎮 Hobbies: I love videogames, illustration, making cute clay figures, and reading books.
 
-I want to thank ChatGPT for answering all my dumb questions about my studies and projects
-[![roadmap.sh](https://roadmap.sh/card/tall/6849f6fde00cd4945b730228?variant=dark&roadmaps=qa)](https://roadmap.sh)
 
 
 <!--
