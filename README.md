@@ -28,5 +28,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lizheidern)
 [![X](https://img.shields.io/badge/Twitter/X-grey?style=for-the-badge&logo=X&logoColor=white)](https://x.com/lizheidern)
 [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizheidern)
-[![Ko-fi](https://img.shields.io/badge/Kofi-72A5F2?style=for-the-badge&logo=kofi&logoColor=white)](https://www.linkedin.com/in/lizheidern)
+[![Ko-fi](https://img.shields.io/badge/Kofi-72A5F2?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/lizheidern)
+[![Patreon](https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=Patreon&logoColor=white)](https://patreon.com/lizheidern)
 
